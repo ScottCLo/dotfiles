@@ -1,0 +1,19 @@
+{
+    "name" : "Gruvbox",
+    "index" : 1400,
+    "show-in-gui" : true,
+
+    "colors" : {
+        "background" :         "#282828",
+        "axes-color" :         "#ebdbb2",
+        "opencsg-face-front" : "#d79921",
+        "opencsg-face-back" :  "#98971a",
+        "cgal-face-front" :    "#d79921",
+        "cgal-face-back" :     "#98971a",
+        "cgal-face-2d" :       "#458588",
+        "cgal-edge-front" :    "#cc241d",
+        "cgal-edge-back" :     "#cc241d",
+        "cgal-edge-2d" :       "#cc241d",
+        "crosshair" :          "#ebdbb2"
+    }
+}
